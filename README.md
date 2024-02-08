@@ -1,4 +1,4 @@
-A User Validation Console 
+A User Validation Console.
 It contains a JavaScript function that takes two parameters and performs a simple email and password 
 
 validation. If the provided email is "Matovu_Solomon_H_Kacungwa@gmail.com" and the password is 
